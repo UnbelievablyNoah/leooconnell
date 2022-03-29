@@ -4,4 +4,4 @@
 
 **Most, if not all code on my profile will be in the Lua or JS programming languages.**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leooconnell)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leooconnell&show_icons=true&theme=radical)
