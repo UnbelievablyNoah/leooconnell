@@ -3,3 +3,5 @@
 - I plan on using GitHub as an educational tool at the moment, and possibly branch off further as I go.
 
 **Most, if not all code on my profile will be in the Lua or JS programming languages.**
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leooconnell)](https://github.com/anuraghazra/github-readme-stats)
