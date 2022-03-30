@@ -7,3 +7,4 @@
 ⚠️ **Most, if not all code on my profile will be in the Lua, JS, or Python programming languages.**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leooconnell&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leooconnell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
